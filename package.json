@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-image": "^2.4.1",
+    "@parcel/transformer-sass": "^2.4.1",
     "parcel": "^2.4.1",
     "sass": "^1.43.2"
   },
